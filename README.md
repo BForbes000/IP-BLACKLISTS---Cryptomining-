@@ -13,3 +13,10 @@ these IP's have been checked with X-Force Exchange as malicious and updates shou
 5.79.68.110
 109.201.133.56
 109.201.133.68
+5.9.136.118
+136.243.102.154
+109.201.133.68
+136.243.102.167
+88.99.142.163
+
+
